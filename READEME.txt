@@ -1,0 +1,5 @@
+DooDisolve is a program to disolve a matrix by doolittle method,which is for further linear equations.
+
+Usage: dolt  matrx-file matrx-order
+
+by silaoA <stsilaoA@gmail.com> 2013-3-9 17:35:57
